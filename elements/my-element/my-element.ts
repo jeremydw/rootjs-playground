@@ -9,8 +9,8 @@ class MyElement extends LitElement {
   render() {
     return html`
       <div class="container">
-        <p>Hello Shadow DOM!</p>
-          <slot></slot>
+          <p>Hello Shadow DOM!</p>
+        <slot></slot>
       </div>
     `;
   }
