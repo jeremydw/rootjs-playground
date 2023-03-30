@@ -10,7 +10,7 @@ class MyElement extends LitElement {
     return html`
       <div class="container">
         <p>Hello Shadow DOM!</p>
-        <slot></slot>
+          <slot></slot>
       </div>
     `;
   }
