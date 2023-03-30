@@ -1,0 +1,15 @@
+{
+  "name": "root-sandbox",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "root dev",
+    "build": "root build"
+  },
+  "dependencies": {
+    "@blinkk/root": "^1.0.0-alpha.36",
+    "lit": "^2.7.0",
+    "preact": "^10.10.6",
+    "preact-render-to-string": "^5.2.3"
+  }
+}
